@@ -18,6 +18,7 @@
         .recipe-card {
             border-bottom: 1px solid #f1f1f1;
             padding: 16px 0;
+            background: white;
         }
         .user-img {
             width: 24px;
