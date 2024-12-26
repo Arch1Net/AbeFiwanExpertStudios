@@ -46,7 +46,7 @@
     <!-- Include Header -->
     <?php include 'header.html'; ?>
 
-    <div class="w3-container">
+    <div class="w3-container" style ="background-color: white;">
         <!-- Navigation Tabs -->
         <div class="w3-bar w3-padding-16">
             <a href="#" class="w3-bar-item w3-button tab-active">Terkini</a>
